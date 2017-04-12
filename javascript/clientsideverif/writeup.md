@@ -1,4 +1,4 @@
-#Client validation is bad
+# Client validation is bad
 
 look at the js
 
