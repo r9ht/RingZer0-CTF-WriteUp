@@ -20,12 +20,12 @@ look at the js
 unicode = 74,97,118,97,83,99,114,105,112,116,73,115,83,101,99,117,114,101
 string = JavaScriptIsSecure
 
->access location :
+>access location : document.location = document.location.href + "?p=" + p;
 
-document.location = document.location.href + "?p=" + p;
+
 
 https://ringzer0team.com/challenges/27?p=JavaScriptIsSecure
 
-> flag :
+> flag : FLAG-66Jq5u688he0y46564481WRh
 
-FLAG-66Jq5u688he0y46564481WRh
+
